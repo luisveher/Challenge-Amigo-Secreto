@@ -1,4 +1,4 @@
-🎁 Amigo Secreto App  
+#🎁 Amigo Secreto App  
 
 Una aplicación sencilla y divertida hecha con **HTML, CSS y JavaScript** para organizar tu sorteo de amigos secretos en segundos.  
  ✨ Características  
